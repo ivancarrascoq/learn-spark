@@ -6,7 +6,7 @@ This repository contains scripts to build and run a Docker container for a Jupyt
 
 ## Prerequisites
 
-- **Docker Desktop** installed and running.
+- **[Docker Desktop](https://www.docker.com/)** installed and running.
 - Permissions to execute scripts.
 - A `data` directory with write permissions in the same directory as the `Dockerfile`.
 
