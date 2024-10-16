@@ -1,4 +1,4 @@
-# README.md
+# README
 
 ## Description
 
@@ -130,7 +130,3 @@ This repository contains scripts to build and run a Docker container for a Jupyt
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or need further assistance!
